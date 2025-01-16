@@ -3,4 +3,4 @@ PeojetoEstagio.csproj
 .github
 .vs
 bin/
-obj/
+obj/       

@@ -1,6 +1,6 @@
 ﻿namespace WebEstagio.Models
 {
-    public class Vaga
+    public class VagasContext
     {
     }
 }
